@@ -1,0 +1,1 @@
+System.register(["./index-legacy-d53f2226.js","./vendor-legacy-2dc10a26.js"],(function(e){"use strict";var n,t,r;return{setters:[function(e){n=e._},function(e){t=e.o,r=e.i}],execute:function(){e("default",n({},[["render",function(e,n){return t(),r("div",null,"login 登录")}]]))}}}));
